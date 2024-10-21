@@ -6,7 +6,6 @@ namespace AccessiblePDFSample {
     internal class Program {
         static void Main(string[] args) {
             Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
-
             ImageTag();
             //OrderAutoTag();
             //AutoTag();
